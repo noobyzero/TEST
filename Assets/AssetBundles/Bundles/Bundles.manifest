@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2697880802
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: demobundle
+      Dependencies: {}
+    Info_1:
+      Name: cubebundle
+      Dependencies: {}
