@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 
 public class CheckManager : MonoBehaviour
 {
-
+	//uuuu
 	GridManager gm;
 	UIManager uim;
 	ObjectManager objm;
